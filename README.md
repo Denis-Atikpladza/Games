@@ -8,6 +8,8 @@ As a side project I decided that I would enhance this and create a graphical ver
 The AI's are a latter project I am planning on working on right now they are 3 very simple algorithms first avaliable move,
 greedy move and random
 
+A UML diagram provided (JPG file) that shows the entire system and it's interactions.
+
 
 # How to play and launch:
 download project on whatever IDE you prefer
